@@ -1,2 +1,2 @@
 # Job-Posting
-A Reactt.Js ob posting site.
+A Reactt.Js Job posting site.
